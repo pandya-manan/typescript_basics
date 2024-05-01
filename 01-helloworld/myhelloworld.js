@@ -1,0 +1,11 @@
+console.log("My Name is Manan! Hello World");
+var result = true;
+var myData = 23;
+var roll = 25;
+console.log(result + " " + myData + " " + roll);
+var firstName = "Manan";
+var lastName = "Pandya";
+console.log("Hello From Nathdwara ".concat(firstName, " ").concat(lastName));
+myData = "Udaipur";
+roll = 500;
+console.log("".concat(roll, " ").concat(myData));
